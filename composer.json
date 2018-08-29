@@ -1,0 +1,20 @@
+{
+    "name": "fernandogiardina/afip",
+    "description": "Afip",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Giardina",
+            "email": "fgiardina@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "fernandogiardina\\afip\\": "src/"
+        }
+    }
+
+}
